@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7846ffd1-6318-47b1-b226-3b6d64203be3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum_PBO11_finalstaticprotectedpackage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num1/num1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num1/src/com/org/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num1/src/com/org/package1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num1/src/com/org/package2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num2/num2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num2/src/packageNum2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num2/src/packageNum2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num2/src/packageNum2/Mathlib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num3/num3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num3/src/packageNum3/LivingRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num3/src/packageNum3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num3/src/packageNum3/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num4/num4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num4/src/packageNum4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num4/src/packageNum4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Pr34UIUs9dQ8Qe6UlPqMsIQtrv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/rasyid/KULIAH/SEM 2/Praktikum PBO/Task15Mei",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7846ffd1-6318-47b1-b226-3b6d64203be3" name="Changes" comment="" />
+      <created>1684201183718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684201183718</updated>
+    </task>
+    <servers />
+  </component>
+</project>
